@@ -33,7 +33,7 @@ conda activate rnaseq
 ## Quickstart
 
 In order to use this pipeline, the user needs to supply a transcriptome file.
-Furthermore, illumina paired-end sequencing reads should have the standard \_R1_ & \_R2_ file naming convention.
+Furthermore, illumina paired-end sequencing reads should have the standard  \_R1_  &  \_R2_ file naming convention.
 
 To run the pipline, run the following command
 
