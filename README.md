@@ -2,7 +2,7 @@
 
 ### About
 
-This pipeline will take user defined raw paired-end fastq files from illumina and run the following programs.
+This generalized pipeline will take user defined raw paired-end fastq files from illumina and run the following programs.
 
 1) Run fastqc quality control check of each sample
 
