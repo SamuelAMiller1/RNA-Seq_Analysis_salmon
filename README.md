@@ -14,7 +14,7 @@ This generalized pipeline will take user defined raw paired-end fastq files from
 ## Installation
 
 This pipeline requires fastqc and salmon.
-We recommend the use of conda environments to install these packages,
+I recommend the use of conda environments to install these packages,
 following these [instructions](https://docs.conda.io/en/latest/miniconda.html) for installation of miniconda.
 
 To create the enviornment, run the following command:
